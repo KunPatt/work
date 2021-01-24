@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment 5</string>
+    <string name="minus">minus</string>
+    <string name="add">Add</string>
+    <string name="reset">reset</string>
+    <string name="nb">0</string>
+    <string name="Int">0</string>
+    <string name="TextView">0</string>
+    <string name="String">0</string>
+</resources>
