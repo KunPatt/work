@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="malong">Malong</string>
+    <string name="username">Username</string>
+    <string name="string_string" />
+    <string name="password"> </string>
+    <string name="string_int">*********</string>
+    <string name="String" />
+    <string name="stringint" />
+    <string name="ok">Ok</string>
+    <string name="clear">CLEAR</string>
+    <string name="name" />
+    <string name="confirm">Confirm</string>
+    <string name="Sring_int">string</string>
+    <string name="string" />
+    <string name="pass">Password</string>
+</resources>
